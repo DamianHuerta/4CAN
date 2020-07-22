@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name digikey-footprints)(type KiCad)(uri "C:/Users/dhuertao/Desktop/Summer 2020/4CAN/Libraries/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name MCP2557FD-H_SN)(type KiCad)(uri "C:/Users/dhuertao/Desktop/Summer 2020/4CAN/Libraries/MCP2557FD-H_SN")(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri "C:/Users/dhuertao/Desktop/Summer 2020/4CAN/Libraries/ul_2184LPST/KiCAD/2020-06-09_18-37-17/footprints.pretty")(options "")(descr ""))
+  (lib (name 2020-06-09_18-37-17)(type KiCad)(uri "C:/Users/dhuertao/Desktop/Summer 2020/4CAN/Libraries/ul_2184LPST/KiCAD/2020-06-09_18-37-17")(options "")(descr ""))
+  (lib (name oscillatorfootprint)(type KiCad)(uri "C:/Users/dhuertao/Desktop/Summer 2020/4CAN/Libraries/ul_KC5032A400000CMGE00/KiCAD/2020-06-15_18-01-30/footprints.pretty")(options "")(descr ""))
+  (lib (name SwitchFootprint)(type KiCad)(uri "C:/Users/dhuertao/Desktop/Summer 2020/4CAN/Libraries/ul_2184LPST/KiCAD/2020-06-09_18-37-17/footprints.pretty")(options "")(descr ""))
+  (lib (name MCP2518)(type KiCad)(uri "C:/Users/dhuertao/Desktop/Summer 2020/4CAN/Libraries/ul_MCP2518FDTHSL/KiCAD/2020-06-18_16-06-34/footprints.pretty")(options "")(descr ""))
+  (lib (name NPTC202KFMS-RC)(type KiCad)(uri "C:/Users/dhuertao/Desktop/Summer 2020/4CAN/Libraries/NPTC202KFMS-RC")(options "")(descr ""))
+  (lib (name 4CAN-CustomFootprints)(type KiCad)(uri ${KIPRJMOD}/4CAN-CustomFootprints.pretty)(options "")(descr ""))
+  (lib (name 4CAN)(type KiCad)(uri "C:/Users/dhuertao/Desktop/Summer 2020/4CAN/Libraries/ul_CX2016DB40000D0FLJCC/KiCAD/2020-06-09_18-57-15/footprints.pretty/4CAN.pretty")(options "")(descr ""))
+)
