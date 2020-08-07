@@ -1817,4 +1817,12 @@ F 3 "" H 10100 4700 50  0001 C CNN
 	1    10100 4700
 	1    0    0    -1  
 $EndComp
+Text Label 9700 6800 0    50   ~ 0
+10K
+Text Label 9700 3550 0    50   ~ 0
+10K
+Text Label 9700 10000 0    50   ~ 0
+10K
+Text Label 9700 13150 0    50   ~ 0
+10K
 $EndSCHEMATC

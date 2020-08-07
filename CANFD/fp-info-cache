@@ -1,4 +1,4 @@
-19383061942882254
+19384676597236522
 4CAN-CustomFootprints
 218-4LPSTJ
 
@@ -34,6 +34,13 @@ KC5032A40.0000CMGE00
 0
 4
 4
+4CAN-CustomFootprints
+USB-ART
+
+
+0
+3
+3
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
